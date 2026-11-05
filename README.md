@@ -1,6 +1,6 @@
 # Stock ImageIQ for Mac
 
-Stock ImageIQ is a smart keywording tool for stock photo and video contributors. It writes titles, descriptions and keywords for every file, embeds them into your originals as IPTC and XMP, and exports CSV for Adobe Stock, Shutterstock, iStock and Getty Images.
+Stock ImageIQ is a smart keywording tool for stock photo and video contributors. It writes titles, descriptions and keywords for every file, embeds them into your JPEG and TIFF photos as IPTC and XMP, and exports CSV for Adobe Stock, Shutterstock, iStock and Getty Images.
 
 This repository hosts the macOS desktop releases.
 
